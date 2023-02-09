@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2F21b65b13D28808Ea3Bc097532dF167c34A8C5d",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2f21b65b13d28808ea3bc097532df167c34a8c5d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Azuki V2 Polygon",
+  "SYMBOL": "Azukipoygon",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/humble-beings-3",
+  "SHOW_BACKGROUND": true
+}
